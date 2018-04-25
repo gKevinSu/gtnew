@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <title>{% block title %}Welcome!{% endblock %}</title>
+        <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+        <link href="/css/app.css" type="text/css" rel="stylesheet" />
+        <script type="text/javascript" src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
+        <script type="text/javascript" src="/js/navbar.js"></script>
+        {% block stylesheets %}{% endblock %}
+    </head>
+    <body>
+    <section id="navblock">
+        <a href="/" alt="LED Manufacturer - GreenTronics">
+            <img src="/images/logo.svg" class="logo" alt="LED Manufacturer - GreenTronics"></a>
+        <a class="menu-link" href="#menu">Menu</a>
+        
+        <nav id="menu" class="menu">
+            <ul>
+                <li class="has-submenu"><a href="#">LED Lighting</a>
+                    <ul class="sub-menu">
+                        <li><a href="/led-downlight">Downlight</a></li>
+                        <li><a href="/led-grid-light">Grid Light</a></li>
+                        <li><a href="/led-spotlight">Spotlight</a></li>
+                        <li><a href="/led-tube">Tube</a></li>
+                        <li><a href="/led-track-light">Track Light</a></li>
+                        <li><a href="/led-panel-light">Panel light</a></li>
+                        <li><a href="/led-strip">Strip</a></li>
+                        <li><a href="/led-flood-light">Flood Light</a></li>
+                    </ul>
+                </li>
+                <li class="has-submenu"><a href="#">Information</a>
+                    <ul class="sub-menu">
+                        <li><a href="/about">About us</a></li>
+                        <li><a href="/news">News</a></li>
+                    </ul>
+                </li>
+                <li><a href="/contact">Contact</a></li>
+                <li><a class="hidden" href="mailto:info@green-tronics.com">Inquiry</a></li>
+            </ul>
+        </nav>
+        <a class="navbutton" href="mailto:info@green-tronics.com">HOW TO BUY</a>
+    </section>
+    <div class="clear"></div>
+    <div class="breadcrumb">{% block breadcrumb %}{% endblock %}</div>
+
+        {% block body %}{% endblock %}
+        {% block footer %}
+            <!--footer links start-->
+            <section class="footer">
+                <div class="footer-linkbox">
+                    <!--contact-->
+                    <div>
+                        <div class="link-header">Contact</div>
+                        <div class="link-context">A3 Building,&nbsp;new ara,&nbsp;shilongzai,&nbsp;shiyan, Bao'an,&nbsp;Shenzhen,&nbsp;China.<br>Tel:86-755-32865675<br/>Email:info@green-tronics.com</div>
+                    </div>
+                    <!--links-->
+                    <div>
+                        <div class="link-header">LED Lighting</div>
+                        <div class="link-context">
+                        <a href="/led-downlight">Downlight</a>
+                        <a href="/led-grid-light">Grid Light</a>
+                        <a href="/led-spotlight">Spotlight</a>
+                        <a href="/led-tube">Tube</a>
+                        <a href="/led-track-light">Track Light</a>
+                        <a href="/led-panel-light">Panel light</a>
+                        <a href="/led-strip">Strip</a>
+                        <a href="/led-flood-light">Flood Light</a>
+                    </div>
+                    </div>
+                    <!--information-->
+                    <div>
+                        <div class="link-header">Information</div>
+                        <div class="link-context">
+                            <a href="/about">About us</a>
+                            <a href="/news">News</a>
+                        </div>
+                    </div>
+                    <!--aboat us-->
+                    <div>
+                        <div class="link-header">About us</div>
+                        <div class="link-context">We are a company mainly researching and producing LED lights, our team has 9 years experience in the LED lighting area.</div>
+                    </div>
+                </div>
+                <br /><br />
+                <hr size="1">
+                <div class="copyrgiht">© 2018 GreenTronics Limited All rights reserved.</div>
+            </section>
+        {% endblock %}
+        
+        {% block javascripts %}{% endblock %}
+    </body>
+</html>

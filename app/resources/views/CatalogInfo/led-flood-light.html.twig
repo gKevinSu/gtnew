@@ -1,0 +1,49 @@
+{% extends 'info.html.twig' %}
+{% block title %}
+	Buy LED Flood Lights with Excellent Performance at Competitive Prices | LED Manufacturer - GreenTronics
+{% endblock %}
+{% block breadcrumb %}
+	<a href="/" alt="GreenTronics">Home</a> &gt;
+	<a href="" alt="LED Flood Light">LED Flood Light</a>
+{% endblock %}
+{% block body %}
+	<div class="content">
+		<h1>LED Flood Light</h1>
+		<p>
+			Our {{catagory.name}} is an energy-saving light source, with main
+
+characteristics of lighting for make-kind colorful, monochromatic good
+
+lighting effects, lower power but long life. Adjustable illumination angle
+
+make the space environment more brighter, lighting coverage larger,
+
+and make it like the daylight with high quality lighting and visual effects.</p>
+<h3>
+Application</h3><p>Suitable for warehouses, corridors, squares, courtyards,
+
+residential areas, schools, oil stations, pavilions, garages, parks, roads,
+
+tunnels, billboards, lighting and other applications.
+		</p> 
+	</div> 
+	<div class="catalog-products">
+        {% for pid,product in catagory.products %}
+           <div>
+                <a href="/{{catagory.catagory}}/{{pid}}">
+                    <div>
+                        <img src="/images/{{catagory.catagory}}/{{product.img}}" alt="{{product.name}}">
+                        <div class='card-title'>{{product.name}}</div>
+                    </div>
+                </a>
+            </div>
+        {% endfor %}
+            <div class="itemempty"></div>
+            <div class="itemempty"></div>
+            <div class="itemempty"></div>
+            <div class="itemempty"></div>
+		</div>
+{% endblock %}
+{% block stylesheets %}
+    <link href="/css/catalog.css" rel="stylesheet">
+{% endblock %}

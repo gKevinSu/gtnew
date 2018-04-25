@@ -1,0 +1,115 @@
+.hr-left{
+	display: table-cell;
+	width: 35%;
+}
+.hr-left hr{
+	border: none;
+	border-top:1px solid gray;
+}
+.hr-right{
+	display: table-cell;
+	width: 35%;
+}
+.hr-right hr{
+	border: none;
+	border-top:1px solid gray;
+}
+.split-header{
+	width: 80%;
+	display: table;
+	margin: 0 auto 20px auto;
+}
+.split-header-text{
+	display: table-cell;
+	margin: 0 auto;
+	font-family: "ROBOTO Light";
+	font-size: 1.3em;
+	text-align: center;
+}
+.container {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+}
+.container > div > a {
+  display:block;
+  text-decoration: none;
+}	
+.container > div{
+  border: 1px solid #F2F2F2;
+  width: 12%;
+  margin: 0 0 20px 0;
+  text-align: center;
+  font-family: "ROBOTO";
+  font-size: 1em;
+  font-weight: 300;
+  color: #222;
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: flex-end;
+}
+.container > div:empty{
+    height: 0px;
+    border-color: white;
+}
+@media screen and (max-width: 1152px) and (min-width: 1100px) {
+  .container > div{
+  	width: 14%;
+  }
+}
+@media screen and (max-width: 1100px) {
+  .container > div{
+  	width: 16%;
+  }
+}
+@media screen and (max-width: 850px) {
+  .container > div{
+  	width: 18%;
+  }
+}
+@media screen and (max-width: 768px) {
+  .container > div{
+  	width: 23%;
+  }
+}
+@media all and (max-width: 768px) {
+	.hr-left{
+		width: 30%;
+	}
+	.hr-right{
+		width: 30%;
+	}
+	.split-header{
+		width: 90%;
+	}
+}
+.container > div > a > div > img{
+  width: 100%;
+  text-align: center;
+  vertical-align: middle;
+}
+.card-title {
+	background-color: #F8F8F8;
+	padding: 10px 0;
+}
+.container > div > a:link{
+	color: #333;
+}
+.container > div > a:hover > div > div{
+  background-color: #333;
+  color: #F8F8F8;
+}
+.container-partner {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+}
+.container-partner div {
+  width: 15%;
+  padding: 0px;
+  text-align: center;
+  vertical-align: top;
+}
+.container-partner div img {
+  width: 100%;
+}

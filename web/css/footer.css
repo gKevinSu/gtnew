@@ -1,0 +1,39 @@
+.footer {
+	color: white;
+	background-color: black;
+	font-family: "ROBOTO";
+	font-size: 1em;
+	padding: 0 25px 10px 25px;
+}
+.footer-linkbox {
+	display: flex;
+	justify-content: space-between;
+	flex-flow: row wrap;
+}
+.footer-linkbox > div{
+	width: 23%;
+	margin-top: 25px;
+}
+@media screen and (max-width: 964px) {
+	.footer-linkbox > div {
+		width: 45%;
+	}
+}
+.link-header {
+	font-family: "Roboto Condensed";
+	font-size: 1.5em;
+}
+.link-context {
+	font-family: "Roboto Light";
+}
+.link-context > a {
+	display: table;
+	text-decoration: none;
+	color: white;
+}
+.link-context > a:hover {
+	color: red;
+}
+.copyright {
+	margin: 15px auto;
+}

@@ -1,0 +1,52 @@
+{% extends 'info.html.twig' %}
+{% block title %}
+	Buy LED Downlights with Excellent Performance at Competitive Prices | LED Manufacturer - GreenTronics
+{% endblock %}
+{% block breadcrumb %}
+	<a href="/" alt="GreenTronics">Home</a> &gt;
+	<a href="" alt="{{catagory.name}}">{{catagory.name}}</a>
+{% endblock %}
+{% block body %}
+	<div class="content">
+		<h1>{{catagory.name}}</h1>
+		<p>
+			Our {{catagory.name}} is unique designed with reflector and COB high power
+
+LED chip.
+
+Short heatsink suitable for all kinds of installations. Aluminum profile
+
+provides excellent thermal dissipation. Isolated driver solution both in
+
+dimmable and non-dimmable version achieves stable working
+
+performance.</p>
+<h3>
+Application</h3><p>Suitable for commercial and residential applications like
+
+office, supermarket, shop, school, hotel, restaurant, workshop,
+
+warehouse, home etc...
+		</p> 
+	</div>
+
+	<div class="catalog-products">
+        {% for pid,product in catagory.products %}
+           <div>
+                <a href="/{{catagory.catagory}}/{{pid}}">
+                    <div>
+                        <img src="/images/{{catagory.catagory}}/{{product.img}}" alt="{{product.name}}">
+                        <div class='card-title'>{{product.name}}</div>
+                    </div>
+                </a>
+            </div>
+        {% endfor %}
+            <div class="itemempty"></div>
+            <div class="itemempty"></div>
+            <div class="itemempty"></div>
+            <div class="itemempty"></div>
+		</div>
+{% endblock %}
+{% block stylesheets %}
+    <link href="/css/catalog.css" rel="stylesheet">
+{% endblock %}

@@ -1,0 +1,59 @@
+{% extends 'info.html.twig' %}
+{% block title %}
+	Buy LED Panel Lights with Excellent Performance at Competitive Prices | LED Manufacturer - GreenTronics
+{% endblock %}
+{% block breadcrumb %}
+	<a href="/" alt="GreenTronics">Home</a> &gt;
+	<a href="" alt="LED Panel Light">LED Panel Light</a>
+{% endblock %}
+{% block body %}
+	<div class="content">
+		<h1>LED Panel Light</h1>
+		<p>
+			Our LED Panel Light adopts high lumen SMD LED with CRI >80. Top
+
+branded driver comes with triac dim, it has perfect dimming range and
+
+shares great compatibility with worldwide famous brand dimmers. 
+
+The colored series LED Panel Lights, through the remote control can realize
+
+the dynamic network of small area form function, achieve the overall
+
+control.
+
+The ultra slim profile fits seamlessly into any work place. It is available
+
+in various installation ways: embedded into ceiling, suspended with
+
+hanging wires, surface mounted in a concrete ceiling by using surface
+
+mounting frame.</p>
+<h3>
+Application</h3><p>Suitable for office room, meeting room, class room ,
+
+shopping mall, super market, retailer shops ,hospital, laboratory, dust-
+
+free workshop etc.
+		</p> 
+	</div> 
+	<div class="catalog-products">
+        {% for pid,product in catagory.products %}
+           <div>
+                <a href="/{{catagory.catagory}}/{{pid}}">
+                    <div>
+                        <img src="/images/{{catagory.catagory}}/{{product.img}}" alt="{{product.name}}">
+                        <div class='card-title'>{{product.name}}</div>
+                    </div>
+                </a>
+            </div>
+        {% endfor %}
+            <div class="itemempty"></div>
+            <div class="itemempty"></div>
+            <div class="itemempty"></div>
+            <div class="itemempty"></div>
+		</div>
+{% endblock %}
+{% block stylesheets %}
+    <link href="/css/catalog.css" rel="stylesheet">
+{% endblock %}

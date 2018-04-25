@@ -1,0 +1,53 @@
+{% extends 'info.html.twig' %}
+{% block title %}
+	Buy LED Track Lights with Excellent Performance at Competitive Prices | LED Manufacturer - GreenTronics
+{% endblock %}
+{% block breadcrumb %}
+	<a href="/" alt="GreenTronics">Home</a> &gt;
+	<a href="" alt="LED Track Light">LED Track Light</a>
+{% endblock %}
+{% block body %}
+	<div class="content">
+		<h1>LED Track Light</h1>
+		<p>
+			Our LED Track Light adopts High CRI COB LEDs with excellent color
+
+rendering index to increase the color fidelity of the target illuminated
+
+object. Providing excellent heat dissipation, even light output without
+
+glare & dark spot. Adjustable lighting orientation with 360 degree in
+
+horizontal direction and 180 in vertical direction. One circuit adapter
+
+and three circuits adapter are all available.</p>
+<h3>
+Application</h3><p>Suitable for supermarket, specialty store, show window,
+
+exhibition hall, focus lighting, decorative and background lighting,
+
+where attention is focused on subjects to emphasize special visual
+
+points.
+		</p> 
+	</div> 
+	<div class="catalog-products">
+        {% for pid,product in catagory.products %}
+           <div>
+                <a href="/{{catagory.catagory}}/{{pid}}">
+                    <div>
+                        <img src="/images/{{catagory.catagory}}/{{product.img}}" alt="{{product.name}}">
+                        <div class='card-title'>{{product.name}}</div>
+                    </div>
+                </a>
+            </div>
+        {% endfor %}
+            <div class="itemempty"></div>
+            <div class="itemempty"></div>
+            <div class="itemempty"></div>
+            <div class="itemempty"></div>
+		</div>
+{% endblock %}
+{% block stylesheets %}
+    <link href="/css/catalog.css" rel="stylesheet">
+{% endblock %}

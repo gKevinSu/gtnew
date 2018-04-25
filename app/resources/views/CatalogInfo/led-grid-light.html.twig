@@ -1,0 +1,53 @@
+{% extends 'info.html.twig' %}
+{% block title %}
+	Buy LED Grid Lights with Excellent Performance at Competitive Prices | LED Manufacturer - GreenTronics
+{% endblock %}
+{% block breadcrumb %}
+	<a href="/" alt="GreenTronics">Home</a> &gt;
+	<a href="" alt="LED Grid Light">LED Grid Light</a>
+{% endblock %}
+{% block body %}
+	<div class="content">
+		<h1>LED Grid Light</h1>
+		<p>
+			Our LED Grid light is unique designed with reflector and high quality COB
+
+LED chip.
+
+Anti-glare lens with Professional LED provides excellent lighting effect
+
+without glare and shadow.
+
+Aluminum profile provides excellent thermal dissipation. Isolated driver
+
+solution both in dimmable and non-dimmable version achieves stable
+
+working performance.</p>
+<h3>
+Application</h3><p>Suitable for commercial and residential applications like
+
+office, supermarket, shop, school, hotel, restaurant, workshop,
+
+warehouse, home etc...
+		</p> 
+	</div> 
+	<div class="catalog-products">
+        {% for pid,product in catagory.products %}
+           <div>
+                <a href="/{{catagory.catagory}}/{{pid}}">
+                    <div>
+                        <img src="/images/{{catagory.catagory}}/{{product.img}}" alt="{{product.name}}">
+                        <div class='card-title'>{{product.name}}</div>
+                    </div>
+                </a>
+            </div>
+        {% endfor %}
+            <div class="itemempty"></div>
+            <div class="itemempty"></div>
+            <div class="itemempty"></div>
+            <div class="itemempty"></div>
+		</div>
+{% endblock %}
+{% block stylesheets %}
+    <link href="/css/catalog.css" rel="stylesheet">
+{% endblock %}
