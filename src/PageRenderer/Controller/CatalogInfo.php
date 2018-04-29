@@ -18,7 +18,7 @@ class CatalogInfo
 		
         $twig = $this->createTwig();
         //var_dump($catagory);
-        $content = $twig->render($catagory_key.".html.twig", 
+        $content = $twig->render("index.html.twig", 
         	array('catagory' => $catagory));
         return new Response($content);
     }

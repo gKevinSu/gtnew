@@ -1,11 +1,13 @@
-{% extends 'info.html.twig' %}
+{% extends 'base.html.twig' %}
 {% block title %}
 	Excellent {{product.name}} From China | LED Manufacturer - GreenTronics
 {% endblock %}
 {% block breadcrumb %}
-	<a href="/" alt="GreenTronics">Home</a> &gt;
-	<a href="/{{catagory_key}}" alt="{{catagory_catagory}}">{{catagory_catagory}}</a> &gt;
-	<a href="" alt="{{product.name}}">{{product.name}}</a>
+    <div class="breadcrumb">
+	   <a href="/" alt="GreenTronics">Home</a> &gt;
+	   <a href="/{{catagory_key}}" alt="{{catagory_catagory}}">{{catagory_catagory}}</a> &gt;
+	   <a href="" alt="{{product.name}}">{{product.name}}</a>
+    </div>
 {% endblock %}
 {% block body %}
 	<div class="content">
