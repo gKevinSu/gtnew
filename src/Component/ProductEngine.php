@@ -60,7 +60,7 @@ Color Temperature: 2700-6500K
 LED chip: Philips/Citizen COB
 CRI: ≥80
 Beam angle: 90°
-Material: Aluminum+Glass                                                                             
+Material: Aluminum+Glass
 Warranty: 2/3 years
 ',
 'application' => 'LED Downlight is mainly used in clothing store, specialty store, furniture store, stage, hotel , coffee shop, exhibition hall, etc.
@@ -78,7 +78,7 @@ Luminous Flux: 2100LM/1250LM/750LM
 Color Temperature: 2700-6500K
 LED chip: Philips/Citizen COB
 CRI: ≥80
-Beam angle: 90°Material: Aluminum+Glass                                                                             
+Beam angle: 90°Material: Aluminum+Glass
 Warranty: 2/3 years
 ',
 'application' => 'LED Downlight is mainly used in clothing store, specialty store, furniture store, stage, hotel , coffee shop, exhibition hall, etc.
@@ -97,7 +97,7 @@ Color Temperature: 2700-6500K
 LED chip: Philips/Citizen COB
 CRI: ≥80
 Beam angle: 110°
-Material: Aluminum+PC                                                                 
+Material: Aluminum+PC
 Warranty: 2/3 years
 ',
 'application' => 'LED Downlight is mainly used in clothing store, specialty store, furniture store, stage, hotel , coffee shop, exhibition hall, etc.
@@ -116,7 +116,7 @@ Color Temperature: 2700-6500K
 LED chip: Philips/Citizen COB
 CRI: ≥80
 Beam angle: 110°
-Material: Aluminum+PC                                                                            
+Material: Aluminum+PC
 Warranty: 2/3 years
 ',
 'application' => 'LED Downlight is mainly used in clothing store, specialty store, furniture store, stage, hotel , coffee shop, exhibition hall, etc.
@@ -136,7 +136,7 @@ LED chip: Philips/Citizen COB
 CRI: ≥80
 Beam angle: 90°
 Material: Aluminum+PC 
-IP degree: IP65                                                                           
+IP degree: IP65
 Warranty: 2/3 years
 ',
 'application' => 'LED Downlight is mainly used in clothing store, specialty store, furniture store, stage, hotel , coffee shop, exhibition hall, etc.
@@ -156,7 +156,7 @@ LED chip: Philips/Citizen COB
 CRI: ≥80
 Beam angle: 90°
 Material: Aluminum+PC  
-IP degree: IP65                                                                           
+IP degree: IP65
 Warranty: 2/3 years
 ',
 'application' => 'LED Downlight is mainly used in clothing store, specialty store, furniture store, stage, hotel , coffee shop, exhibition hall, etc.
@@ -175,7 +175,7 @@ Color Temperature: 2700-6500K
 LED chip: Philips/Citizen COB
 CRI: ≥80
 Beam angle: 90°
-Material: Aluminum+Glass                                                                           
+Material: Aluminum+Glass
 Warranty: 2/3 years
 ',
 'application' => 'LED Downlight is mainly used in clothing store, specialty store, furniture store, stage, hotel , coffee shop, exhibition hall, etc.
@@ -194,7 +194,7 @@ Color Temperature: 2700-6500K
 LED chip: Philips/Citizen COB
 CRI: ≥80
 Beam angle: 90°
-Material: Aluminum+Glass                                                                           
+Material: Aluminum+Glass
 Warranty: 2/3 years
 ',
 'application' => 'LED Downlight is mainly used in clothing store, specialty store, furniture store, stage, hotel , coffee shop, exhibition hall, etc.
@@ -218,7 +218,7 @@ Color Temperature: 2700-6500K
 LED chip: Epistar COB
 CRI: ≥80
 Beam angle: 15°/24°/36°
-Material: PC/Aluminum alloy                                                                               
+Material: PC/Aluminum alloy
 Warranty: 2/3 years
 ',
 'application' => 'LED Gimbal Down Light is mainly used in clothing store, specialty store, furniture store, stage, hotel , coffee shop, exhibition hall, etc.
@@ -237,7 +237,7 @@ Color Temperature: 2700-6500K
 LED chip: Epistar COB
 CRI: ≥80
 Beam angle: 15°/24°/36°
-Material: PC/Aluminum alloy                                                                               
+Material: PC/Aluminum alloy
 Warranty: 2/3 years
 ',
 'application' => 'LED Gimbal Down Light is mainly used in clothing store, specialty store, furniture store, stage, hotel , coffee shop, exhibition hall, etc.
@@ -256,7 +256,7 @@ Color Temperature: 2700-6500K
 LED chip: Epistar COB
 CRI: ≥80
 Beam angle: 15°/24°/36°
-Material: PC/Aluminum alloy                                                                               
+Material: PC/Aluminum alloy
 Warranty: 2/3 years
 ',
 'application' => 'LED Gimbal Down Light is mainly used in clothing store, specialty store, furniture store, stage, hotel , coffee shop, exhibition hall, etc.
@@ -275,7 +275,7 @@ Color Temperature: 2700-6500K
 LED chip: Epistar COB
 CRI: ≥80
 Beam angle: 15°/24°/36°
-Material: PC/Aluminum alloy                                                                               
+Material: PC/Aluminum alloy
 Warranty: 2/3 years
 ',
 'application' => 'LED Gimbal Down Light is mainly used in clothing store, specialty store, furniture store, stage, hotel , coffee shop, exhibition hall, etc.
@@ -294,7 +294,7 @@ Color Temperature: 2700-6500K
 LED chip: CREE/Epistar COB
 CRI: ≥80
 Beam angle: 45°/60°
-Material: Aluminum alloy                                                                               
+Material: Aluminum alloy
 Warranty: 3 years
 ',
 'application' => 'LED Down Light is mainly used in clothing store, specialty store, furniture store, stage, hotel, coffee shop, exhibition hall, etc.
@@ -313,7 +313,7 @@ Color Temperature: 2700-6500K
 LED chip: CREE/Epistar COB
 CRI: ≥80
 Beam angle: 45°/60°
-Material: Aluminum alloy                                                                               
+Material: Aluminum alloy
 Warranty: 3 years
 ',
 'application' => 'LED Grid Down Light is mainly used in clothing store, specialty store, furniture store, stage, hotel, coffee shop, exhibition hall, etc.
@@ -332,7 +332,7 @@ Color Temperature: 2700-6500K
 LED chip: CREE/Epistar COB
 CRI: ≥80
 Beam angle: 45°/60°
-Material: Aluminum alloy                                                                               
+Material: Aluminum alloy                                       
 Warranty: 3 years
 ',
 'application' => 'LED Grid Down Light is mainly used in clothing store, specialty store, furniture store, stage, hotel, coffee shop, exhibition hall, etc.
@@ -351,7 +351,7 @@ Color Temperature: 2700-6500K
 LED chip: CREE/Epistar COB
 CRI: ≥80
 Beam angle: 45°/60°
-Material: Aluminum alloy                                                                               
+Material: Aluminum alloy                                       
 Warranty: 3 years
 ',
 'application' => 'LED Grid Down Light is mainly used in clothing store, specialty store, furniture store, stage, hotel, coffee shop, exhibition hall, etc.
@@ -370,7 +370,7 @@ Color Temperature: 2700-6500K
 LED chip: Epistar COB
 CRI: ≥80
 Beam angle: 45°/60°
-Material: Aluminum                                                                               
+Material: Aluminum                                       
 Warranty: 2 years
 ',
 'application' => 'LED Grid Down Light is mainly used in clothing store, specialty store, furniture store, stage, hotel, coffee shop, exhibition hall, etc.
@@ -389,7 +389,7 @@ Color Temperature: 2700-6500K
 LED chip: Epistar COB
 CRI: ≥80
 Beam angle: 45°/60°
-Material: Aluminum                                                                               
+Material: Aluminum                                       
 Warranty: 2 years
 ',
 'application' => 'LED Grid Down Light is mainly used in clothing store, specialty store, furniture store, stage, hotel, coffee shop, exhibition hall, etc.
@@ -408,7 +408,7 @@ Color Temperature: 2700-6500K
 LED chip: Epistar COB
 CRI: ≥80
 Beam angle: 45°/60°
-Material: Aluminum                                                                               
+Material: Aluminum                                       
 Warranty: 2 years
 ',
 'application' => 'LED Grid Down Light is mainly used in clothing store, specialty store, furniture store, stage, hotel, coffee shop, exhibition hall, etc.
@@ -426,7 +426,7 @@ Color Temperature: 2700-6500K
 LED chip: Epistar COB
 CRI: ≥80
 Beam angle: 45°/60°
-Material: Aluminum                                                                               
+Material: Aluminum                                       
 Warranty: 3 years
 ',
 'application' => 'LED Engine is mainly used for LED grid light, down light and for replacing  the old light source,etc.
@@ -449,7 +449,7 @@ LED chip: CREE COB
 CRI: ≥80
 Beam angle: 10°/24°
 Material: 0603 aluminum 
-Base: G53                                                                                   
+Base: G53   
 Warranty: 3 years
 ',
 'application' => 'AR111 LED Spotlight can be used for commercial lighting, hotel lighting, domestic lighting, etc.
@@ -468,7 +468,7 @@ LED chip: CREE COB
 CRI: ≥80
 Beam angle: 10°/24°
 Material: 6063 aluminum 
-Base: G53                                                                                  
+Base: G53  
 Warranty: 3 years
 ',
 'application' => 'AR111 LED Spotlight can be used for commercial lighting, hotel lighting, domestic lighting, etc.
@@ -487,7 +487,7 @@ LED chip: CREE COB
 CRI: ≥80
 Beam angle: 24°/38°/60°
 Material: 6063 aluminum 
-Base: G53                                                                                  
+Base: G53  
 Warranty: 3 years
 ',
 'application' => 'AR80 LED Spotlight can be used for commercial lighting, hotel lighting, domestic lighting, etc.
@@ -506,7 +506,7 @@ LED chip: CREE COB
 CRI: ≥80
 Beam angle: 10°/24°
 Material: 6063 aluminum 
-Base: E27/E26                                                                                  
+Base: E27/E26  
 Warranty: 3 years
 ',
 'application' => 'PAR38 LED Spotlight can be used for commercial lighting, hotel lighting, domestic lighting, etc.
@@ -525,7 +525,7 @@ LED chip: CREE COB
 CRI: ≥80
 Beam angle: 10°/24°
 Material: 6063 aluminum 
-Base: E27/E26                                                                                  
+Base: E27/E26  
 Warranty: 3 years
 ',
 'application' => 'PAR30 LED Spotlight can be used for commercial lighting, hotel lighting, domestic lighting, etc.
@@ -544,7 +544,7 @@ LED chip: CREE COB
 CRI: ≥80
 Beam angle: 24°/38°/60°
 Material: 6063 aluminum 
-Base: E27/E26                                                                                  
+Base: E27/E26  
 Warranty: 3 years
 ',
 'application' => 'PAR20 LED Spotlight can be used for commercial lighting, hotel lighting, domestic lighting, etc.
@@ -563,7 +563,7 @@ LED chip: CREE COB
 CRI: ≥80
 Beam angle: 24°/38°/60°
 Material: 6063 aluminum 
-Base: E27/E26                                                                                  
+Base: E27/E26  
 Warranty: 3 years
 ',
 'application' => 'PAR20 LED Spotlight can be used for commercial lighting, hotel lighting, domestic lighting, etc.
@@ -582,7 +582,7 @@ LED chip: CREE COB
 CRI: ≥80
 Beam angle: 30°/45°
 Material: 6063 aluminum 
-Base: G5.3/GU10                                                                                 
+Base: G5.3/GU10 
 Warranty: 3 years
 ',
 'application' => 'MR16 LED Spotlight can be used for commercial lighting, hotel lighting, domestic lighting, etc.
@@ -601,7 +601,7 @@ LED chip:  Epistar COB
 CRI: ≥80
 Beam angle: 30°/45°
 Material: 6063 aluminum 
-Base: G5.3/GU10/E27                                                                                
+Base: G5.3/GU10/E27
 Warranty: 2 years
 ',
 'application' => 'MR16 LED Spotlight can be used for commercial lighting, hotel lighting, domestic lighting, etc.
@@ -620,7 +620,7 @@ LED chip:  Epistar COB
 CRI: ≥80
 Beam angle: 30°/45°
 Material: 6063 aluminum 
-Base: G5.3/GU10/E27                                                                                
+Base: G5.3/GU10/E27
 Warranty: 2 years
 ',
 'application' => 'MR16 LED Spotlight can be used for commercial lighting, hotel lighting, domestic lighting, etc.
@@ -639,7 +639,7 @@ LED chip:  Epistar COB
 CRI: ≥80
 Beam angle: 30°/45°
 Material: 6063 aluminum 
-Base: G5.3/GU10/E27                                                                                
+Base: G5.3/GU10/E27
 Warranty: 2 years
 ',
 'application' => 'MR16 LED Spotlight can be used for commercial lighting, hotel lighting, domestic lighting, etc.
@@ -658,7 +658,7 @@ LED chip:  Epistar COB
 CRI: ≥80
 Beam angle: 30°/45°
 Material: 6063 aluminum 
-Base: G5.3/GU10/E27                                                                                
+Base: G5.3/GU10/E27
 Warranty: 2 years
 ',
 'application' => 'MR16 LED Spotlight can be used for commercial lighting, hotel lighting, domestic lighting, etc.
@@ -680,7 +680,7 @@ Color Temperature: 2700-6500K
 LED chip: Epistar SMD2835  
 CRI: 80
 Beam angle:≥120°
-Material: Aluminum+PC                                                                                   
+Material: Aluminum+PC   
 Warranty: 3 years/ 2 years.
 ',
 'application' => 'T5 seamless LED tubes can be seamless connected one by one, and there is no darkness between each two tubes. It usually be used for commercial lighting, decorative lighting.
@@ -698,7 +698,7 @@ Color Temperature: 2700-6500K
 LED chip: Epistar SMD2835  
 CRI: 80
 Beam angle:≥120°
-Material: Aluminum+PC                                                                                   
+Material: Aluminum+PC   
 Warranty: 3 years/ 2 years.
 ',
 'application' => 'T5 seamless LED tubes can be seamless connected one by one, and there is no darkness between each two tubes. It usually be used for commercial lighting, decorative lighting.
@@ -716,7 +716,7 @@ Color Temperature: 2700-6500K
 LED chip: Epistar SMD2835  
 CRI: 80
 Beam angle:≥120°
-Material: Aluminum+PC                                                                                  
+Material: Aluminum+PC  
 Warranty: 3 years/ 2 years.
 ',
 'application' => 'T5 seamless LED tubes can be seamless connected one by one, and there is no darkness between each two tubes. It usually be used for commercial lighting, decorative lighting.
@@ -734,7 +734,7 @@ Color Temperature: 2700-6500K
 LED chip: Epistar SMD2835  
 CRI: 80
 Beam angle:≥120°
-Material: Aluminum+PC                                                                                  
+Material: Aluminum+PC  
 Warranty: 3 years/ 2 years.
 ',
 'application' => 'T5 seamless LED tubes can be seamless connected one by one, and there is no darkness between each two tubes. It usually be used for commercial lighting, decorative lighting.
@@ -752,7 +752,7 @@ Color Temperature: 2700-6500K
 LED chip:  Epistar SMD2835 
 CRI: 80
 Beam angle:≥120°
-Material: Aluminum+PC                                                                                 
+Material: Aluminum+PC 
 Warranty: 3 years/ 2 years.
 ',
 'application' => 'T8 LED tubes can be used for indoor lighting, and outdoor lighting with housings.
@@ -770,7 +770,7 @@ Color Temperature: 2700-6500K
 LED chip:  Epistar SMD2835 
 CRI: 80
 Beam angle:≥120°
-Material: Aluminum+PC                                                                                  
+Material: Aluminum+PC  
 Warranty: 3 years/ 2 years.
 ',
 'application' => 'T8 LED tubes can be used for indoor lighting, and outdoor lighting with housings.
@@ -788,7 +788,7 @@ Color Temperature: 2700-6500K
 LED chip:  Epistar SMD2835 
 CRI: 80
 Beam angle:≥120°                       
-Material: Aluminum+PC                                                                                
+Material: Aluminum+PC
 Warranty: 3 years/ 2 years.
 ',
 'application' => 'T8 LED tubes can be used for indoor lighting, and outdoor lighting with housings.
@@ -806,7 +806,7 @@ Color Temperature: 2700-6500K
 LED chip:  Epistar SMD2835 
 CRI: 80
 Beam angle:≥120°                       
-Material: Aluminum+PC                                                                                
+Material: Aluminum+PC
 Warranty: 3 years/ 2 years.
 ',
 'application' => 'T8 LED tubes can be used for indoor lighting, and outdoor lighting with housings.
@@ -830,7 +830,7 @@ Color Temperature: 2800K-6500K
 LED chip: Philips/Citizen COB
 CRI: ≥80
 Beam angle: 10°~70°
-Material: Aluminum+PMMA                                                                              
+Material: Aluminum+PMMA                                      
 Warranty: 2/3 years
 ',
 'application' => 'This LED Track Light is used for museum, etc.
@@ -850,7 +850,7 @@ Color Temperature: 2800K-6500K
 LED chip: Philips/Citizen COB
 CRI: ≥80
 Beam angle: 12° /24° /36°
-Material: Aluminum+PMMA                                                                              
+Material: Aluminum+PMMA                                      
 Warranty: 2/3 years
 ',
 'application' => 'LED Track Light is mainly used in shopping mall, specialty store, jewelry store, hotel, ect.
@@ -869,7 +869,7 @@ Color Temperature: 2800K-6500K
 LED chip: Philips/Citizen COB
 CRI: ≥80
 Beam angle: 10° /23° /38°
-Material: Aluminum+PMMA                                                                              
+Material: Aluminum+PMMA                                      
 Warranty: 2/3 years
 ',
 'application' => 'LED Track Light is mainly used in shopping mall, specialty store, jewelry store, hotel, ect.
@@ -888,7 +888,7 @@ Color Temperature: 2800K-6500K
 LED chip: Philips/Citizen COB
 CRI: ≥80
 Beam angle: 24° /36°
-Material: Aluminum+PMMA                                                                              
+Material: Aluminum+PMMA                                      
 Warranty: 2/3 years
 ',
 'application' => 'LED Track Light is mainly used in shopping mall, specialty store, jewelry store, hotel, ect.
@@ -908,7 +908,7 @@ Color Temperature: 2800K-6500K
 LED chip: Philips/Citizen COB
 CRI: ≥80
 Beam angle: 24° /36°
-Material: Aluminum+PMMA                                                                              
+Material: Aluminum+PMMA                                      
 Warranty: 2/3 years
 ',
 'application' => 'LED Track Light is mainly used in shopping mall, specialty store, jewelry store, hotel, ect.
@@ -927,7 +927,7 @@ Color Temperature: 2800K-6500K
 LED chip: Philips/Citizen COB
 CRI: ≥80
 Beam angle: 24° /38°
-Material: Aluminum+PMMA                                                                              
+Material: Aluminum+PMMA                                      
 Warranty: 2/3 years
 ',
 'application' => 'LED Track Light is mainly used in shopping mall, specialty store, jewelry store, hotel, ect.
@@ -947,7 +947,7 @@ Color Temperature: 2800K-6500K
 LED chip: Philips/Citizen COB
 CRI: ≥80
 Beam angle: 15° /20°/30°/60°
-Material: Aluminum+PC                                                                             
+Material: Aluminum+PC                                     
 Warranty: 2/3 years
 ',
 'application' => 'LED Track Light is mainly used in shopping mall, specialty store, jewelry store, hotel, ect.
@@ -966,7 +966,7 @@ Color Temperature: 2800K-6500K
 LED chip: Philips/Citizen COB
 CRI: ≥80
 Beam angle: 24°/38°
-Material: Aluminum+PC                                                                             
+Material: Aluminum+PC                                     
 Warranty: 2/3 years
 ',
 'application' => 'LED Track Light is mainly used in shopping mall, specialty store, jewelry store, hotel, ect.
@@ -986,7 +986,7 @@ Color Temperature: 2800K-6500K
 LED chip: Philips/Citizen COB
 CRI: ≥80
 Beam angle: 10°/23°/36°
-Material: Aluminum+PMMA                                                                             
+Material: Aluminum+PMMA                                     
 Warranty: 2/3 years
 ',
 'application' => 'LED Track Light is mainly used in shopping mall, specialty store, jewelry store, hotel, ect.
@@ -1005,7 +1005,7 @@ Color Temperature: 2800K-6500K
 LED chip: Philips/Citizen COB
 CRI: ≥80
 Beam angle: 12°/24°/36°/60°
-Material: Aluminum+PC                                                                            
+Material: Aluminum+PC                                    
 Warranty: 2/3 years
 ',
 'application' => 'LED Track Light is mainly used in shopping mall, specialty store, jewelry store, hotel, ect.
@@ -1027,7 +1027,7 @@ Color Temperature: 2800K-6500K
 LED chip: Philips/Epistar SMD LED
 CRI: ≥80
 Beam angle: 120°
-Material: Aluminum+PC                                                                            
+Material: Aluminum+PC                                    
 Warranty: 2/3 years
 ',
 'application' => 'LED Panel Light is used for classroom, office, exhibition center, market, shops and  kitchen,etc.
@@ -1045,7 +1045,7 @@ Color Temperature: 2800K-6500K
 LED chip: Philips/Epistar SMD LED
 CRI: ≥80
 Beam angle: 120°
-Material: Aluminum+PC                                                                            
+Material: Aluminum+PC                                    
 Warranty: 2/3 years
 ',
 'application' => 'LED Panel Light is used for classroom, office, exhibition center, market, shops and  kitchen,etc.
@@ -1063,7 +1063,7 @@ Color Temperature: 2800K-6500K
 LED chip: Philips/Epistar SMD LED
 CRI: ≥80
 Beam angle: 120°
-Material: Aluminum+PC                                                                            
+Material: Aluminum+PC                                    
 Warranty: 2/3 years
 ',
 'application' => 'LED Panel Light is used for classroom, office, exhibition center, market, shops and  kitchen,etc.
@@ -1081,7 +1081,7 @@ Color Temperature: 2800K-6500K
 LED chip: Philips/Epistar SMD LED
 CRI: ≥80
 Beam angle: 120°
-Material: Aluminum+PC                                                                            
+Material: Aluminum+PC                                    
 Warranty: 2/3 years
 ',
 'application' => 'LED Panel Light is used for classroom, office, exhibition center, market, shops and  kitchen,etc.
@@ -1099,7 +1099,7 @@ Color Temperature: 2800K-6500K
 LED chip: Philips/Epistar SMD LED
 CRI: ≥80
 Beam angle: 120°
-Material: Aluminum+PC                                                                            
+Material: Aluminum+PC                                    
 Warranty: 2/3 years
 ',
 'application' => 'LED Panel Light is used for classroom, office, exhibition center, market, shops and  kitchen,etc.
@@ -1117,7 +1117,7 @@ Color Temperature: 2800K-6500K
 LED chip: Philips/Epistar SMD LED
 CRI: ≥80
 Beam angle: 120°
-Material: Aluminum+PC                                                                            
+Material: Aluminum+PC                                    
 Warranty: 2/3 years
 ',
 'application' => 'LED Panel Light is used for classroom, office, exhibition center, market, shops and  kitchen,etc.
@@ -1135,7 +1135,7 @@ Color Temperature: 2800K-6500K
 LED chip: Philips/Epistar SMD LED
 CRI: ≥80
 Beam angle: 120°
-Material: Aluminum+PC                                                                            
+Material: Aluminum+PC                                    
 Warranty: 2/3 years
 ',
 'application' => 'LED Panel Light is used for classroom, office, exhibition center, market, shops and  kitchen,etc.
@@ -1153,7 +1153,7 @@ Color Temperature: RGB+W
 LED chip: Philips/Epistar SMD LED
 CRI: ≥80
 Beam angle: 120°
-Material: Aluminum+PC                                                                            
+Material: Aluminum+PC                                    
 Warranty: 2/3 years
 ',
 'application' => 'LED Panel Light is used for classroom, office, exhibition center, market, shops and  kitchen,etc.
@@ -1240,7 +1240,7 @@ LED chip: 240pcs Osram/Philips3030
 CRI: ≥80
 Beam angle: 120°
 Material: Aluminum+Glass 
-IP degree: IP65                                                                          
+IP degree: IP65                                  
 Warranty: 3/5 years
 ',
 'application' => 'LED Flood Light is mainly used decoration and highlight in building frame, it can be widely used for commercial buildings, outdoor plazas, museum, gymnasium, art galleries, buildings façade, mosques and historical buildings, etc.
@@ -1259,7 +1259,7 @@ LED chip: 150pcs Osram/Philips3030
 CRI: ≥80
 Beam angle: 120°
 Material: Aluminum+Glass 
-IP degree: IP65                                                                          
+IP degree: IP65                                  
 Warranty: 3/5 years
 ',
 'application' => 'LED Flood Light is mainly used decoration and highlight in building frame, it can be widely used for commercial buildings, outdoor plazas, museum, gymnasium, art galleries, buildings façade, mosques and historical buildings, etc.
@@ -1278,7 +1278,7 @@ LED chip: 100pcs Osram/Philips3030
 CRI: ≥80
 Beam angle: 120°
 Material: Aluminum+Glass 
-IP degree: IP65                                                                          
+IP degree: IP65                                  
 Warranty: 3/5 years
 ',
 'application' => 'LED Flood Light is mainly used decoration and highlight in building frame, it can be widely used for commercial buildings, outdoor plazas, museum, gymnasium, art galleries, buildings façade, mosques and historical buildings, etc.
@@ -1297,7 +1297,7 @@ LED chip: 80pcs Osram/Philips3030
 CRI: ≥80
 Beam angle: 120°
 Material: Aluminum+Glass 
-IP degree: IP65                                                                          
+IP degree: IP65                                  
 Warranty: 3/5 years
 ',
 'application' => 'LED Flood Light is mainly used decoration and highlight in building frame, it can be widely used for commercial buildings, outdoor plazas, museum, gymnasium, art galleries, buildings façade, mosques and historical buildings, etc.
@@ -1316,7 +1316,7 @@ LED chip: Bridgeluxflip-chip /ETI LED flip-chip
 CRI: ≥75
 Beam angle: 120°
 Material: Aluminum+Glass 
-IP degree: IP65                                                                          
+IP degree: IP65                                  
 Warranty: 3/5 years
 ',
 'application' => 'LED Flood Light is mainly used decoration and highlight in building frame, it can be widely used for commercial buildings, outdoor plazas, museum, gymnasium, art galleries, buildings façade, mosques and historical buildings, etc.
@@ -1335,7 +1335,7 @@ LED chip: Bridgeluxflip-chip /ETI LED flip-chip
 CRI: ≥75
 Beam angle: 120°
 Material: Aluminum+Glass 
-IP degree: IP65                                                                          
+IP degree: IP65                                  
 Warranty: 3/5 years
 ','application' => 'LED Flood Light is mainly used decoration and highlight in building frame, it can be widely used for commercial buildings, outdoor plazas, museum, gymnasium, art galleries, buildings façade, mosques and historical buildings, etc.
 ',
@@ -1353,7 +1353,7 @@ LED chip: Bridgeluxflip-chip /ETI LED flip-chip
 CRI: ≥75
 Beam angle: 120°
 Material: Aluminum+Glass 
-IP degree: IP65                                                                          
+IP degree: IP65                                  
 Warranty: 3/5 years
 ',
 'application' => 'LED Flood Light is mainly used decoration and highlight in building frame, it can be widely used for commercial buildings, outdoor plazas, museum, gymnasium, art galleries, buildings façade, mosques and historical buildings, etc.
@@ -1374,7 +1374,7 @@ LED chip: Bridgeluxflip-chip /ETI LED flip-chip
 CRI: ≥75
 Beam angle: 120°
 Material: Aluminum+Glass 
-IP degree: IP65                                                                          
+IP degree: IP65                                  
 Warranty: 3/5 years
 ',
 'application' => 'LED Flood Light is mainly used decoration and highlight in building frame, it can be widely used for commercial buildings, outdoor plazas, museum, gymnasium, art galleries, buildings façade, mosques and historical buildings, etc.
@@ -1396,7 +1396,7 @@ Color Temperature: 2700-6500K
 LED chip: Philips/Epistar SMD
 CRI: ≥80
 Beam angle: 120°
-Material: Aluminum+PC                                                                                 
+Material: Aluminum+PC 
 Warranty: 3/5 years
 ',
 'application' => 'LED linear light is mainly used for office, hotel, entertainment,
@@ -1416,7 +1416,7 @@ Color Temperature: 2700-6500K
 LED chip: Philips/Epistar SMD
 CRI: ≥80
 Beam angle: 120°
-Material: Aluminum+PC                                                                                 
+Material: Aluminum+PC 
 Warranty: 3/5 years
 ',
 'application' => 'LED linear light is mainly used for office, hotel, entertainment,
@@ -1436,7 +1436,7 @@ Color Temperature: 2700-6500K
 LED chip: Philips/Epistar SMD
 CRI: ≥80
 Beam angle: 120°
-Material: Aluminum+PC                                                                                 
+Material: Aluminum+PC 
 Warranty: 3/5 years
 ',
 'application' => 'LED linear light is mainly used for office, hotel, entertainment,
@@ -1456,7 +1456,7 @@ Color Temperature: 2700-6500K
 LED chip: Philips/Epistar SMD
 CRI: ≥80
 Beam angle: 120°
-Material: Aluminum+PC                                                                                 
+Material: Aluminum+PC 
 Warranty: 3/5 years
 ',
 'application' => 'LED linear light is mainly used for office, hotel, entertainment,
@@ -1476,7 +1476,7 @@ Color Temperature: 2700-6500K
 LED chip: Philips/Epistar SMD
 CRI: ≥80
 Beam angle: 120°
-Material: Aluminum+PC                                                                                 
+Material: Aluminum+PC 
 Warranty: 3/5 years
 ',
 'application' => 'LED linear light is mainly used for office, hotel, entertainment,
@@ -1496,7 +1496,7 @@ Color Temperature: 2700-6500K
 LED chip: Philips/Epistar SMD
 CRI: ≥80
 Beam angle: 120°
-Material: Aluminum+PC                                                                                 
+Material: Aluminum+PC 
 Warranty: 3/5 years
 ','application' => 'LED linear light is mainly used for office, hotel, entertainment,
  household lighting, auxiliary lighting and landscape lighting, etc.
@@ -1515,7 +1515,7 @@ Color Temperature: 2700-6500K
 LED chip: Philips/Epistar SMD
 CRI: ≥80
 Beam angle: 120°
-Material: Aluminum+PC                                                                                 
+Material: Aluminum+PC 
 Warranty: 3/5 years',
 'application' => 'LED linear light is mainly used for office, hotel, entertainment,
  household lighting, auxiliary lighting and landscape lighting, etc.
@@ -1534,7 +1534,7 @@ Color Temperature: 2700-6500K
 LED chip: Philips/Epistar SMD
 CRI: ≥80
 Beam angle: 120°
-Material: Aluminum+PC                                                                                 
+Material: Aluminum+PC 
 Warranty: 3/5 years
 ',
 'application' => 'LED linear light is mainly used for office, hotel, entertainment,
@@ -1554,7 +1554,7 @@ Color Temperature: 2700-6500K
 LED chip: Philips/Epistar SMD
 CRI: ≥80
 Beam angle: 120°
-Material: Aluminum+PC                                                                                 
+Material: Aluminum+PC 
 Warranty: 3/5 years
 ',
 'application' => 'LED linear light is mainly used for office, hotel, entertainment,
@@ -1574,7 +1574,7 @@ Color Temperature: 2700-6500K
 LED chip: Philips/Epistar SMD
 CRI: ≥80
 Beam angle: 120°
-Material: Aluminum+PC                                                                                 
+Material: Aluminum+PC 
 Warranty: 3/5 years
 ',
 'application' => 'LED linear light is mainly used for office, hotel, entertainment,
