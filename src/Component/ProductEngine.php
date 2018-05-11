@@ -9,6 +9,10 @@ namespace Component
 		function __construct(){
 			$this -> catalog = array();
 			$serials = array(
+            'led-linear-light'=>array('name'=>'LED Linear Light',
+               'discription'=>'Our LED linear light is mainly used for office, hotel, entertainment, household lighting, auxiliary lighting and landscape lighting, etc.
+             It can be seamless connected for all kinds of assembling, can meet personalized design requirements through ever-changing forms.',
+               'application'=>''),
             'led-downlight'=>array('name'=>'LED Downlight',
                'discription'=>'Our LED Downlight is unique designed with reflector and COB high power 
                LED chip. Short heatsink suitable for all kinds of installations. Aluminum profile provides excellent thermal dissipation. Isolated driver solution both in dimmable and non-dimmable version achieves stable working performance.',
@@ -1378,6 +1382,208 @@ Warranty: 3/5 years
 'img' => '25.jpg
 ');
          $this -> catalog['led-flood-light']['products'] = $led_flood_light;
+
+//add linear light
+         $led_linear_light = array();
+$led_linear_light['GT-LN3535'] = array(
+'pid' => 'GT-LN3535',
+'name' => 'LED Linear Light 20W 60CM',
+'discription' => 'Voltage: AC100-240V 
+Wattage:20W/60cm  
+Size: W35xH35mm 
+Luminous Flux: 1700LM
+Color Temperature: 2700-6500K
+LED chip: Philips/Epistar SMD
+CRI: ≥80
+Beam angle: 120°
+Material: Aluminum+PC                                                                                 
+Warranty: 3/5 years
+',
+'application' => 'LED linear light is mainly used for office, hotel, entertainment,
+ household lighting, auxiliary lighting and landscape lighting, etc.
+It can be seamless connected for all kinds of assembling, can meet personalized design requirements through ever-changing forms.
+',
+'img' => '1.jpg
+');
+$led_linear_light['GT-LN5047'] = array(
+'pid' => 'GT-LN5047',
+'name' => 'LED Linear Light 25W 60CM',
+'discription' => 'Voltage: AC100-240V 
+Wattage:25W/60cm  
+Size: W50xH47mm 
+Luminous Flux: 2200LM
+Color Temperature: 2700-6500K
+LED chip: Philips/Epistar SMD
+CRI: ≥80
+Beam angle: 120°
+Material: Aluminum+PC                                                                                 
+Warranty: 3/5 years
+',
+'application' => 'LED linear light is mainly used for office, hotel, entertainment,
+ household lighting, auxiliary lighting and landscape lighting, etc.
+It can be seamless connected for all kinds of assembling, can meet personalized design requirements through ever-changing forms.
+',
+'img' => '2.jpg
+');
+$led_linear_light['GT-LN5047F'] = array(
+'pid' => 'GT-LN5047F',
+'name' => 'LED Linear Light 25W 60CM',
+'discription' => 'Voltage: AC100-240V 
+Wattage:25W/60cm  
+Size: W50xH47mm 
+Luminous Flux: 2200LM
+Color Temperature: 2700-6500K
+LED chip: Philips/Epistar SMD
+CRI: ≥80
+Beam angle: 120°
+Material: Aluminum+PC                                                                                 
+Warranty: 3/5 years
+',
+'application' => 'LED linear light is mainly used for office, hotel, entertainment,
+ household lighting, auxiliary lighting and landscape lighting, etc.
+It can be seamless connected for all kinds of assembling, can meet personalized design requirements through ever-changing forms.
+',
+'img' => '3.jpg
+');
+$led_linear_light['GT-LN1716'] = array(
+'pid' => 'GT-LN1716',
+'name' => 'LED Linear Light 10W 60CM',
+'discription' => 'Voltage: AC100-240V 
+Wattage:10W/60cm  
+Size: W17xH16mm 
+Luminous Flux: 1000LM
+Color Temperature: 2700-6500K
+LED chip: Philips/Epistar SMD
+CRI: ≥80
+Beam angle: 120°
+Material: Aluminum+PC                                                                                 
+Warranty: 3/5 years
+',
+'application' => 'LED linear light is mainly used for office, hotel, entertainment,
+ household lighting, auxiliary lighting and landscape lighting, etc.
+It can be seamless connected for all kinds of assembling, can meet personalized design requirements through ever-changing forms.
+',
+'img' => '4.jpg
+');
+$led_linear_light['GT-LN3547F'] = array(
+'pid' => 'GT-LN3547F',
+'name' => 'LED Linear Light 20W 60CM',
+'discription' => 'Voltage: AC100-240V 
+Wattage:20W/60cm  
+Size: W35xH47mm 
+Luminous Flux: 1700LM
+Color Temperature: 2700-6500K
+LED chip: Philips/Epistar SMD
+CRI: ≥80
+Beam angle: 120°
+Material: Aluminum+PC                                                                                 
+Warranty: 3/5 years
+',
+'application' => 'LED linear light is mainly used for office, hotel, entertainment,
+ household lighting, auxiliary lighting and landscape lighting, etc.
+It can be seamless connected for all kinds of assembling, can meet personalized design requirements through ever-changing forms.
+',
+'img' => '5.jpg
+');
+$led_linear_light['GT-LN5047A'] = array(
+'pid' => 'GT-LN5047A',
+'name' => 'LED Linear Light 25W 60CM',
+'discription' => 'Voltage: AC100-240V 
+Wattage:25W/60cm  
+Size: W50xH47mm 
+Luminous Flux: 2200LM
+Color Temperature: 2700-6500K
+LED chip: Philips/Epistar SMD
+CRI: ≥80
+Beam angle: 120°
+Material: Aluminum+PC                                                                                 
+Warranty: 3/5 years
+','application' => 'LED linear light is mainly used for office, hotel, entertainment,
+ household lighting, auxiliary lighting and landscape lighting, etc.
+It can be seamless connected for all kinds of assembling, can meet personalized design requirements through ever-changing forms.
+',
+'img' => '6.jpg
+');
+$led_linear_light['GT-LN7035'] = array(
+'pid' => 'GT-LN7035',
+'name' => 'LED Linear Light 30W 60CM',
+'discription' => 'Voltage: AC100-240V 
+Wattage:30W/60cm  
+Size: W70xH35mm 
+Luminous Flux: 2600LM
+Color Temperature: 2700-6500K
+LED chip: Philips/Epistar SMD
+CRI: ≥80
+Beam angle: 120°
+Material: Aluminum+PC                                                                                 
+Warranty: 3/5 years',
+'application' => 'LED linear light is mainly used for office, hotel, entertainment,
+ household lighting, auxiliary lighting and landscape lighting, etc.
+It can be seamless connected for all kinds of assembling, can meet personalized design requirements through ever-changing forms.
+',
+'img' => '7.jpg
+');
+$led_linear_light['GT-LN1616A'] = array(
+'pid' => 'GT-LN1616A',
+'name' => 'LED Linear Light 10W 60CM',
+'discription' => 'Voltage: AC100-240V 
+Wattage:10W/60cm  
+Size: W22.6mm 
+Luminous Flux: 1000LM
+Color Temperature: 2700-6500K
+LED chip: Philips/Epistar SMD
+CRI: ≥80
+Beam angle: 120°
+Material: Aluminum+PC                                                                                 
+Warranty: 3/5 years
+',
+'application' => 'LED linear light is mainly used for office, hotel, entertainment,
+ household lighting, auxiliary lighting and landscape lighting, etc.
+It can be seamless connected for all kinds of assembling, can meet personalized design requirements through ever-changing forms.
+',
+'img' => '8.jpg
+');
+$led_linear_light['GT-LN1616B'] = array(
+'pid' => 'GT-LN1616B',
+'name' => 'LED Linear Light 10W 60CM',
+'discription' => 'Voltage: AC100-240V 
+Wattage:10W/60cm  
+Size: W22.6mm 
+Luminous Flux: 1000LM
+Color Temperature: 2700-6500K
+LED chip: Philips/Epistar SMD
+CRI: ≥80
+Beam angle: 120°
+Material: Aluminum+PC                                                                                 
+Warranty: 3/5 years
+',
+'application' => 'LED linear light is mainly used for office, hotel, entertainment,
+ household lighting, auxiliary lighting and landscape lighting, etc.
+It can be seamless connected for all kinds of assembling, can meet personalized design requirements through ever-changing forms.
+',
+'img' => '9.jpg
+');
+$led_linear_light['GT-LN3030A'] = array(
+'pid' => 'GT-LN3030A',
+'name' => 'LED Linear Light 20W 60CM',
+'discription' => 'Voltage: AC100-240V 
+Wattage:20W/60cm  
+Size: W42.4mm 
+Luminous Flux: 1800LM
+Color Temperature: 2700-6500K
+LED chip: Philips/Epistar SMD
+CRI: ≥80
+Beam angle: 120°
+Material: Aluminum+PC                                                                                 
+Warranty: 3/5 years
+',
+'application' => 'LED linear light is mainly used for office, hotel, entertainment,
+ household lighting, auxiliary lighting and landscape lighting, etc.
+It can be seamless connected for all kinds of assembling, can meet personalized design requirements through ever-changing forms.
+',
+'img' => '10.jpg
+');
+         $this -> catalog['led-linear-light']['products'] = $led_linear_light;
 
    //function end      
 	}
