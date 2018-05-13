@@ -10,33 +10,50 @@ namespace Component
 			$this -> catalog = array();
 			$serials = array(
             'led-linear-light'=>array('name'=>'LED Linear Light',
-               'discription'=>'Our LED linear light is mainly used for office, hotel, entertainment, household lighting, auxiliary lighting and landscape lighting, etc.
-             It can be seamless connected for all kinds of assembling, can meet personalized design requirements through ever-changing forms.',
-               'application'=>''),
+               'discription'=>'Our LED Linear Light is made of high quality aluminum alloy, with delicate texture surface, and make the fixture durable. Covered full size of products, which can choose suitable products to meet different space requirements. 
+               Precision optical design and high quality optical materials to ensure product superior light efficiency. 
+               Easy to install and maintain.',
+               'application'=>'Mainly used for office, hotel, entertainment, household lighting, auxiliary lighting and landscape lighting, etc.
+             It can be seamless connected for all kinds of assembling, can meet personalized design requirements through ever-changing forms.'),
             'led-downlight'=>array('name'=>'LED Downlight',
-               'discription'=>'Our LED Downlight is unique designed with reflector and COB high power 
-               LED chip. Short heatsink suitable for all kinds of installations. Aluminum profile provides excellent thermal dissipation. Isolated driver solution both in dimmable and non-dimmable version achieves stable working performance.',
+               'discription'=>'Our LED Downlight is unique designed with reflector and COB high power LED chip. 
+               Short heatsink suitable for all kinds of installations. 
+               Aluminum profile provides excellent thermal dissipation. 
+               Isolated driver solution both in dimmable and non-dimmable version achieves stable working performance.',
                'application'=>'Suitable for commercial and residential applications like office, supermarket, shop, school, hotel, restaurant, workshop, warehouse, home etc...'),
             'led-grid-light'=>array('name'=>'LED Grid Light',
-               'discription'=>'Our LED Grid light is unique designed with reflector and high quality COB LED chip. Anti-glare lens with Professional LED provides excellent lighting effect without glare and shadow. Aluminum profile provides excellent thermal dissipation. Isolated driver solution both in dimmable and non-dimmable version achieves stable working performance.',
+               'discription'=>'Our LED Grid light is unique designed with reflector and high quality COB LED chip. 
+               Anti-glare lens with Professional LED provides excellent lighting effect without glare and shadow. 
+               Aluminum profile provides excellent thermal dissipation. 
+               Isolated driver solution both in dimmable and non-dimmable version achieves stable working performance.',
                'application'=>'Suitable for commercial and residential applications like office, supermarket, shop, school, hotel, restaurant, workshop, warehouse, home etc...'),
             'led-spotlight'=>array('name'=>'LED Spotlight',
-               'discription'=>'Our LED Spotlight is unique designed with reflector and COB high power LED chip. Anti-glare lens with Professional LED provides excellent lighting effect without glare and shadow. Aluminum profile provides excellent thermal dissipation. Isolated driver solution both in dimmable and non-dimmable version achieves stable working performance.',
+               'discription'=>'Our LED Spotlight is unique designed with reflector and COB high power LED chip. 
+               Anti-glare lens with Professional LED provides excellent lighting effect without glare and shadow. 
+               Aluminum profile provides excellent thermal dissipation. Isolated driver solution both in dimmable and non-dimmable version achieves stable working performance.',
                'application'=>'Suitable for commercial and residential applications like office, supermarket, shop, school, hotel, restaurant, workshop, warehouse, home etc...'),
             'led-tube'=>array('name'=>'LED Tube',
                'discription'=>'Our LED Tube is mainly used for various kinds of office, hotel, business super, entertainment, and the master of household lighting, auxiliary lighting and landscape lighting. Effectively build household, commercial super shopping, landscape lighting and other places of different light environment, namely can do give priority to lighting, auxiliary according to use of lamps and lanterns. Can through the seamless joint, for all kinds of assembling.',
                'application'=>''),
             'led-track-light'=>array('name'=>'LED Track Light',
-               'discription'=>'Our LED Track Light adopts High CRI COB LEDs with excellent color rendering index to increase the color fidelity of the target illuminated object. Providing excellent heat dissipation, even light output without glare &amp; dark spot. Adjustable lighting orientation with 360 degree in horizontal direction and 180 in vertical direction. One circuit adapter and three circuits adapter are all available.',
+               'discription'=>'Our LED Track Light adopts High CRI COB LEDs with excellent color rendering index to increase the color fidelity of the target illuminated object. 
+               Providing excellent heat dissipation, even light output without glare & dark spot. 
+               Adjustable lighting orientation with 360 degree in horizontal direction and 180 in vertical direction. 
+               One circuit adapter and three circuits adapter are all available.',
                'application'=>'Suitable for supermarket, specialty store, show window, exhibition hall, focus lighting, decorative and background lighting, where attention is focused on subjects to emphasize special visual points.'),
             'led-panel-light'=>array('name'=>'LED Panel Light',
-               'discription'=>'Our LED Panel Light adopts high lumen SMD LED with CRI >80. Top branded driver comes with triac dim, it has perfect dimming range and shares great compatibility with worldwide famous brand dimmers.  The colored series LED Panel Lights, through the remote control can realize the dynamic network of small area form function, achieve the overall control. The ultra slim profile fits seamlessly into any work place. It is available in various installation ways: embedded into ceiling, suspended with hanging wires, surface mounted in a concrete ceiling by using surface mounting frame.',
+               'discription'=>'Our LED Panel Light adopts high lumen SMD LED with CRI >80. 
+               Top branded driver comes with triac dim, it has perfect dimming range and shares great compatibility with worldwide famous brand dimmers.  
+               The colored series LED Panel Lights, through the remote control can realize the dynamic network of small area form function, achieve the overall control. 
+               The ultra slim profile fits seamlessly into any work place. It is available in various installation ways: embedded into ceiling, suspended with hanging wires, surface mounted in a concrete ceiling by using surface mounting frame.',
                'application'=>'Suitable for office room, meeting room, class room , shopping mall, super market, retailer shops ,hospital, laboratory, dust- free workshop etc.'),
             'led-strip'=>array('name'=>'LED Strip',
-               'discription'=>'Our LED Strip is mainly used for various kinds of office, hotel, business super, entertainment, and the master of household lighting, auxiliary lighting and landscape lighting. Effectively build household, commercial super shopping, landscape lighting and other places of different light environment, namely can do give priority to lighting, auxiliary according to use of lamps and lanterns. Can also achieve personalized design requirements through ever-changing forms. Canthrough the seamless joint, for all kinds of assembling.',
+               'discription'=>'Our LED Strip is mainly used for various kinds of office, hotel, supermarket, shopping mall, entertainment, and the master of household lighting, auxiliary lighting and landscape lighting. 
+               Effectively build household, commercial super shopping, landscape lighting and other places of different light environment, namely can do give priority to lighting, auxiliary according to use of lamps and lanterns. ',
                'application'=>''),
             'led-flood-light'=>array('name'=>'LED Flood Light',
-               'discription'=>'Our LED Flood Light is an energy-saving light source, with main characteristics of lighting for make-kind colorful, monochromatic good lighting effects, lower power but long life. Adjustable illumination angle make the space environment more brighter, lighting coverage larger, and make it like the daylight with high quality lighting and visual effects.',
+               'discription'=>'Our LED Flood Light is an energy-saving light source, with main characteristics of lighting for make-kind colorful, monochromatic good lighting effects, lower power but long life. 
+               Adjustable illumination angle make the space environment more brighter, lighting coverage larger, and make it like the daylight with high quality lighting and visual effects.',
                'application'=>'Suitable for warehouses, corridors, squares, courtyards, residential areas, schools, oil stations, pavilions, garages, parks, roads, tunnels, billboards, lighting and other applications.'));
 			foreach ($serials as $catagory => $catagoryInfo) {
 				$this -> catalog[$catagory] = array();
